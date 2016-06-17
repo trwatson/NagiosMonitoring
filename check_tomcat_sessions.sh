@@ -1,6 +1,8 @@
 #!/bin/bash
 ### check_tomcat_sessions Troy Watson 2016
 ### cmdline-jmxclient.jar is available from http://crawler.archive.org/cmdline-jmxclient/
+#### https://github.com/trwatson
+
 cmdLineJMXJar=./cmdline-jmxclient.jar
 user=admin
 password=password
