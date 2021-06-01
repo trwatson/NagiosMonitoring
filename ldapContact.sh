@@ -44,7 +44,7 @@ define contact {
         host_notification_period        24x7
         service_notification_options    u,c,r
         host_notification_options       d,u,r
-        email                           "$USER_NAME"@xactware.com
+        email                           "$USER_NAME"@company.com
 }
 "
 echo "$contact"
